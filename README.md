@@ -1,5 +1,5 @@
 # Employee Attrition Prediction
-[Final presentation project](https://github.com/mchosasih99/Employee-Attrition-Prediction/blob/main/Employee%20Attrition%20Presentation.pptx?raw=true) for Rakamin Academy Data Science Bootcamp.
+[Final presentation project](https://github.com/mchosasih99/Employee-Attrition-Prediction/blob/main/Employee%20Attrition%20Presentation.pptx) for Rakamin Academy Data Science Bootcamp.
 
 # Problem Statement
 1. What are the factors that drive employees to attrice?
