@@ -15,7 +15,6 @@ Final presentation project for Rakamin Academy Data Science Bootcamp.
 3. Data Pre-processing
 4. Predictive Modeling
 5. Result & Recommendations
-6. Implementation
 
 # Findings
 1. Top 3 Global features that drive Attrition are Overtime, Job Satisfaction and Environmnent Satisfaction.
